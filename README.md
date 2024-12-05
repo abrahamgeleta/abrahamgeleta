@@ -7,6 +7,7 @@ Hi I a Abraham Gelta
 - ⚡ Fun fact: ...
 
 <!---
-Hi I am Abraham Geleta 
+Hi there!
+I am Abraham Geleta 
 Computer sience Student
 --->
